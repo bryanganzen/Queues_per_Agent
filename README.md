@@ -69,3 +69,10 @@ El código muestra el tiempo de ejecución de cada sección principal:
 - **2.2** Tiempo en obtener las queues: 2.78 segundos
 - **3** Proceso finalizado. Los datos se han guardado en 'usuarios_queues_organización_1.xlsx'.
 - **3.1** Tiempo total del proceso: 6.23 segundos
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto.
+
+- Bryan Ganzen
+- 55 75 45 65 81
